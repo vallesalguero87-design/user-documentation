@@ -7,7 +7,7 @@ and recommend users to refer to the built-in signature helpers available in
 the Hack LSP instead for complete and up-to-date information.
 :::
 
-## Classes
+## Classes1
 
  * [`HH\Lib\Async`](/hsl/Classes/HH.Lib.Async)
  * [`HH\Lib\File`](/hsl/Classes/HH.Lib.File)
